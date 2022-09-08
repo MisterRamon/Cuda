@@ -1,0 +1,98 @@
+body {
+	font-family: "Titillium Web", sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.menu__elem {
+	line-height: 18px;
+	text-transform: uppercase;
+}
+.menu__link {
+	text-decoration: none;
+}
+.zagolovok-header__text {
+	font-size: 42px;
+	line-height: 48px;
+	font-weight: bold;
+}
+.button {
+	font-size: 18px;
+	line-height: 26px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.button__link {
+	text-decoration: none;
+}
+
+
+.zagolovok-block__ZAG {
+	font-size: 40px;
+	line-height: 30px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.zagolovok-block__description {
+	font-size: 18px;
+	line-height: 26px;
+}
+.service__head, .creator__name, .skills-direction__name {
+	font-size: 24px;
+	line-height: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+
+.service__description, .creator__description {
+	font-weight: 300;
+}
+
+.creator__direction {
+	line-height: 18px;
+}
+
+
+.skills-box-procent__meaning {
+	font-size: 50px;
+	line-height: 21px;
+}
+.skills-box-procent__sign {
+	font-size: 32px;
+}
+
+.skills-list__elem, .computer__description {
+	font-size: 18px;
+	line-height: 20px;
+	text-transform: uppercase;
+}
+
+.man-quote__comment {
+	font-size: 21px;
+	line-height: 31px;
+	font-style: italic;
+}
+.man-card__name {
+	font-size: 24px;
+	line-height: 26px;
+	text-transform: uppercase;
+}
+.man-card__app {
+	font-size: 18px;
+	line-height: 26px;
+}
+
+
+.form__data {
+	font-size: 18px;
+	line-height: 18px;
+}
+
+
+.our-social__link {
+	font-size: 24px;
+	line-height: 30px;
+	font-weight: 600;
+	text-decoration: none;
+}
